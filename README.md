@@ -1,9 +1,22 @@
 # Drawing Conclusions: A Collaborative Drawing Game
 ### 👩‍🎨🎨👨‍🎨.
 
-This drawing game has been created for research use so can be hosted locally and you keep all of the data where hosted. If you use this game in your research, please cite... tbc.
+This drawing game has been created for research use so can be hosted locally and you keep all of the data where hosted. Originally created for a collaboration between the [UCL Vocal Communication Laboratory](https://www.carolynmcgettigan.com/) and [Heriot-Watt University's Interaction Lab](https://sites.google.com/site/hwinteractionlab/).
 
-Originally created for a collaboration between the [UCL Vocal Communication Laboratory](https://www.carolynmcgettigan.com/) and [Heriot-Watt University's Interaction Lab](https://sites.google.com/site/hwinteractionlab/).
+If you use this game in your research, please cite our paper published in Cognition titled: "Self-ownership, not self-production, modulates bias and agency over a synthesised voice" by Bryony Payne, Angus Addlesee, Verena Rieser, and Carolyn McGettigan. The paper can be found [here](https://www.sciencedirect.com/science/article/pii/S0010027724000908).
+
+BibTeX:
+```
+@article{payne2024self,
+  title={Self-ownership, not self-production, modulates bias and agency over a synthesised voice},
+  journal={Cognition},
+  volume={248},
+  pages={105804},
+  year={2024},
+  doi={10.1016/j.cognition.2024.105804},
+  author={Bryony Payne and Angus Addlesee and Verena Rieser and Carolyn McGettigan}
+}
+```
 
 Below you will find a short game guide and then instructions on how to run the game. The code has been commented in detail for reusability.
 
